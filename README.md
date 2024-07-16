@@ -47,7 +47,7 @@ Example files for each are shown in the demo folder.
 
 5. For a quick start, you may download songs from [Youtube Audio Library](https://studio.youtube.com/channel/UCfD-bv-_j5C2kglrLpfX21g/music)
 
-6. Open your browser and navigate to `http://127.0.0.1:3000/index.html`. Use the interface to play your albums and songs 😊
+6. Use live preview/live server to start the app on `http://127.0.0.1:3000/index.html`. Use the interface to play your albums and songs 😊
 
 
 
