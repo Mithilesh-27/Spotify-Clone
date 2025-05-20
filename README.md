@@ -51,7 +51,7 @@ Example files for each are shown in the demo folder.
 
 ## Live Demo
 
-Check out the live version of the website here: [Spotify Clone](https://school-website-omega-gray.vercel.app/)
+Check out the live version of the website here: [Spotify Clone](https://spotify-clone-neon-six.vercel.app/)
 
 ## Contributing
 
