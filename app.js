@@ -36,7 +36,7 @@ function makePlaylist(songs) {
 }
 
 async function getSongs(folder) {
-    let a = await fetch(`http://127.0.0.1:3000/songs/${folder}/`)
+    let a = await fetch(`https://spotify-clone-neon-six.vercel.app/songs/${folder}/`)
     let response = await a.text()
     let div = document.createElement("div")
     div.innerHTML = response
@@ -219,7 +219,7 @@ function secToMin(time) {
 }
 
 async function loadAlbums() {
-    let response = await fetch(`http://127.0.0.1:3000/songs/`)
+    let response = await fetch(`https://spotify-clone-neon-six.vercel.app/songs/`)
     let b = await response.text()
     let div = document.createElement("div")
     div.innerHTML = b
