@@ -49,7 +49,9 @@ Example files for each are shown in the demo folder.
 
 6. Use live preview/live server to start the app on `http://127.0.0.1:3000/index.html`. Use the interface to play your albums and songs 😊
 
+## Live Demo
 
+Check out the live version of the website here: [Spotify Clone](https://school-website-omega-gray.vercel.app/)
 
 ## Contributing
 
